@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi. I am *ben*
 
-<!--
-**benni-ben/benni-ben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+`I am interested in web development and silly games/websites. Also interested in 3d, Roblox building, animation, rigging, and other forms of art.`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`I am currently teaching myself JavaScript(shoutout to (MDN Docs)[https://developer.mozilla.org/en-US/] for helping me)`
+
+`I like eaglercraft, and I like making dumb shit that looks like it had a lot of effort put in.`
+
+`Currently available to help with 3d, UI design, or anything art-related. I am experienced in Autodesk Fusion, Blender, Roblox Studio, Daz3d, Adobe Illustrator, and I am very experienced in Google Color Picker(don't ask me).`
+
+`Oh, I am also a male.`
+
+`I have **Discord**, **Roblox**, **Reddit**, and more.`
+
+If you'd like to reach out to me on Discord, my Discord username is *@benpolb*.
+
+My GitHub is *@benni-ben*
+
